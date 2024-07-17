@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Original D&D"
 date:   2024-07-17 13:05:27 +1000
 categories: jekyll update
